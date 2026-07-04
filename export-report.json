@@ -1,0 +1,80 @@
+{
+  "origin": "https://www.theetnarosso.com",
+  "output": "wordpress-static-export-clean",
+  "fetchedPages": 58,
+  "fetchedAssets": 265,
+  "remainingPages": 0,
+  "remainingAssets": 0,
+  "failures": [
+    {
+      "type": "page",
+      "url": "https://www.theetnarosso.com/2020/12/15/vegan-vegeterian/",
+      "error": "404 Not Found"
+    },
+    {
+      "type": "page",
+      "url": "https://www.theetnarosso.com/2024/06/21/vegan-vegeterian-menu/",
+      "error": "404 Not Found"
+    },
+    {
+      "type": "page",
+      "url": "https://www.theetnarosso.com/wp-content/uploads/2025/04/Screenshot-2025-04-21-at-3.08.11",
+      "error": "404 Not Found"
+    },
+    {
+      "type": "page",
+      "url": "https://www.theetnarosso.com/wp-content/uploads/2024/06/Screenshot-2024-06-20-at-1.57.07",
+      "error": "404 Not Found"
+    },
+    {
+      "type": "page",
+      "url": "https://www.theetnarosso.com/wp-content/uploads/2025/04/Screenshot-2025-04-21-at-4.42.55",
+      "error": "404 Not Found"
+    },
+    {
+      "type": "page",
+      "url": "https://www.theetnarosso.com/wp-content/uploads/2025/04/Screenshot-2025-04-21-at-5.04.32",
+      "error": "404 Not Found"
+    },
+    {
+      "type": "page",
+      "url": "https://www.theetnarosso.com/wp-content/uploads/2025/04/Screenshot-2025-04-21-at-9.01.11",
+      "error": "404 Not Found"
+    },
+    {
+      "type": "page",
+      "url": "https://www.theetnarosso.com/wp-content/uploads/2024/06/Screenshot-2024-06-20-at-1.47.06",
+      "error": "404 Not Found"
+    },
+    {
+      "type": "page",
+      "url": "https://www.theetnarosso.com/wp-content/uploads/2024/06/Screenshot-2024-06-20-at-2.30.15",
+      "error": "404 Not Found"
+    },
+    {
+      "type": "page",
+      "url": "https://www.theetnarosso.com/wp-content/uploads/2024/07/Screenshot-2024-07-31-at-12.53.19",
+      "error": "404 Not Found"
+    },
+    {
+      "type": "page",
+      "url": "https://www.theetnarosso.com/wp-content/uploads/2024/08/Screenshot-2024-08-21-at-2.35.21",
+      "error": "404 Not Found"
+    },
+    {
+      "type": "page",
+      "url": "https://www.theetnarosso.com/menu/",
+      "error": "404 Not Found"
+    },
+    {
+      "type": "page",
+      "url": "https://www.theetnarosso.com/wp-content/plugins/wordpress-seo/css/%7B$sitemapURL%7D",
+      "error": "404 Not Found"
+    },
+    {
+      "type": "page",
+      "url": "https://www.theetnarosso.com/wp-content/plugins/wordpress-seo/css/%7B$itemURL%7D",
+      "error": "404 Not Found"
+    }
+  ]
+}
